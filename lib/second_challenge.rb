@@ -7,7 +7,5 @@ def second_challenge
   }
 
   #code your solution here!
-
-  
-
+  groceries.values.flat_map {|i| i}
 end
